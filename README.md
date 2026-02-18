@@ -1,0 +1,2 @@
+# Intelligent Optimization and Problem Solving VT2026
+Personal repository for colaboration in designing Randomized Optimization Algorithms for the Intelligent Optimization and Problem Solving VT2026 course at Jönköping University.
