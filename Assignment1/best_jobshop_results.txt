@@ -1,0 +1,5 @@
+SA:
+Best Makespan Found: 929
+
+ES:
+Final Best Makespan (ES): 1055
